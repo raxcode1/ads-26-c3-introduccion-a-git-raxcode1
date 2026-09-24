@@ -39,6 +39,7 @@ Una vez que hayas completado el ejercicio ejecuta:
 npm test ejercicio/1
 ```
 
+
 Si pasa todos los test, continúa con el siguiente ejercicio.
 
 ¡Buena suerte y diviértete aprendiendo Git!
