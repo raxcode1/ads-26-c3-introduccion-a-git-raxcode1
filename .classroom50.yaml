@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ads-26-c3"
+assignment: "introduccion-a-git"
+owner:
+  username: "raxcode1"
+  id: 100424681
+  accepted_at: "2026-09-24T21:33:13Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
